@@ -19,8 +19,8 @@ C:\> dir filename.txt /s
 ### Search for a string in all files
 findstr /S /I /M password c: \*
 
-  Go crazy
-  findstr /si password *.txt | *.xml | *.ini | *.doc | *.snt | *.html | *.rtf | *.docx | *.eml | *.msg
+  Go crazy:   findstr /si password *.txt | *.xml | *.ini | *.doc | *.snt | *.html | *.rtf | *.docx | *.eml | *.msg
+	  
 	  More info on options: https://en.wikipedia.org/wiki/Findstr
 
 ### Windows System Version
