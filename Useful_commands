@@ -1,7 +1,7 @@
-Install TFTP (Windows 7, Windows Vista, Windows Server 2008/2008 R2)
+### Install TFTP (Windows 7, Windows Vista, Windows Server 2008/2008 R2)
 pkgmgr /iu:"TFTP"
 
-Add a local user account
+### Add a local user account
 net user tester testing /ADD
 
 Add a local user account to the Local Administrators group
