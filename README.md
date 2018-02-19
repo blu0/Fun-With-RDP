@@ -42,3 +42,5 @@ systeminfo
 
 ver
 
+### Directory Traversal
+C:\Windows/system32/Eula.txt -- This will often show you exact version of Windows running including Language
