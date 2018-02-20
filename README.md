@@ -42,5 +42,8 @@ systeminfo
 
 ver
 
+### Services
+tasklist /v
+
 ### Directory Traversal
 Windows/system32/Eula.txt -- This will often show you exact version of Windows running including Language
