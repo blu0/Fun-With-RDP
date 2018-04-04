@@ -45,5 +45,12 @@ ver
 ### Services
 tasklist /v
 
+### Switch user with psexec/psexec64 (useful if you have admin creds)
+
+psexec64 -accepteula
+
+psexec64 -u username cmd.exe
+
+
 ### Directory Traversal
 Windows/system32/Eula.txt -- May show exact version of Windows running including Language (on older systems)
