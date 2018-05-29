@@ -22,3 +22,6 @@ netsh firewall add portopening TCP 3389 "RDP"
 sudo apt-get install freerdp-x11
 ### Connect:
 xfreerdp /v:TARGETIP:3389 /u:tester
+
+
+Of course, do not use this on any systems in which you do not have permission to do so.
