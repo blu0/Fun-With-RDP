@@ -19,7 +19,7 @@ netsh firewall add portopening TCP 3389 "RDP"
 
 **If you get CredSSP error when connecting (rdesktop) use freerdp**  
 **Install:**  
-sudo apt-get install freerdp-x11
+sudo apt-get install freerdp-x11  
 **Connect:**  
 xfreerdp /v:TARGETIP:3389 /u:tester
 
