@@ -1,5 +1,5 @@
 # rdpadmin.bat Explained
-============================================================================
+============================================================================  
 **Add a local user account with required password complexity**  
 net user tester Testing123! /ADD
 
