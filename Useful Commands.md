@@ -1,4 +1,4 @@
-# Useful Windows Commands
+# Random Useful Windows Commands and Enum Stuff
 ### Install TFTP (Windows 7, Windows Vista, Windows Server 2008/2008 R2)
 pkgmgr /iu:"TFTP"
 
